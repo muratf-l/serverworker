@@ -1,0 +1,13 @@
+{
+  "VERSION": "1.6.2",
+  "PORT": 9092,
+  "MONGODB": "mongodb://",
+  "MAIL_SERVER": "smtp.eu.mailgun.org",
+  "MAIL_SERVER_PORT": 587,
+  "MAIL_SENDER": " VIP",
+  "MAIL_SENDER_MAIL": "",
+  "MAIL_USER_NAME": "",
+  "MAIL_USER_PASS": "13884320045dec0d2dad0f59e22adfcc-5645b1f9-476b6d03",
+  "MAIL_RECEIVERS": "",
+  "JOB_MAIL_DB_LIMIT": 2
+}
